@@ -12,7 +12,6 @@ pefile==2017.11.5
 pipenv==2018.6.25
 PyInstaller==3.3.1
 pypiwin32==223
-pywin32==223
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
 Werkzeug==0.14.1
